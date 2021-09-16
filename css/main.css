@@ -1,0 +1,18 @@
+.main-container {
+  height: 80vh;
+  width: 80vw;
+  border: 1px solid red;
+  display: flex;
+  align-items: flex-end;
+}
+
+.crops {
+  height: 15vh;
+  width: 15vh;
+  border: 1px solid green;
+  margin: 3vh;
+}
+
+#crop-4 {
+  align-self: flex-start;
+}
